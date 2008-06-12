@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rss [<!ENTITY % HTMLlat1 PUBLIC "-//W3C//ENTITIES Latin 1 for XHTML//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent">]>
+<rss version="2.0" xml:base="http://atlhack.org">
+<channel>
+ <title>atlhack.org - </title>
+ <link>http://atlhack.org</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Hackfest 1111011</title>
+ <link>http://atlhack.org/node/273</link>
+ <description>&lt;p&gt;New Member: Dustin&lt;br /&gt;
+ - went to school at &lt;a href=&quot;http://www.risd.edu/&quot;&gt;RISD&lt;/a&gt;&lt;br /&gt;
+ - rock-climbs with Humza&lt;br /&gt;
+ - joking about a movie where:&lt;br /&gt;
+ - - a man who burns other people&#039;s copies of comics to make his copy more rare&lt;br /&gt;
+ - making Flash animations for Intel + Beijing Olympic ads&lt;br /&gt;
+ - partway through watching tekkonkinkreet&lt;/p&gt;
+&lt;p&gt;Drew:&lt;br /&gt;
+ - trying to get on the network&lt;br /&gt;
+ - getting into &lt;a href=&quot;http://amqp.org&quot;&gt;AMQP&lt;/a&gt;&lt;br /&gt;
+ - - similar to &lt;a href=&quot;http://en.wikipedia.org/wiki/Java_Message_Service&quot;&gt;JMS&lt;/a&gt; (which he uses at work)&lt;br /&gt;
+Lindsey:&lt;br /&gt;
+ - 13 work days left before summer vacation&lt;br /&gt;
+ - - down to 8 things on The Todo List That Refused To Die&lt;br /&gt;
+ - looking for an apartment in Bloomington!&lt;br /&gt;
+ - still chipping away at SICP&lt;br /&gt;
+ - - trying to finish chapter 1 exercises by the end of the month&lt;br /&gt;
+Martin:&lt;br /&gt;
+ - working on Tyrus&#039;s &quot;flipping coasts&quot; app&lt;br /&gt;
+ - - for keeping in touch with people after he moves&lt;br /&gt;
+Erik:&lt;br /&gt;
+ - wrote code for adding &lt;a href=&quot;http://github.com/subwindow/negative-captcha&quot;&gt;negative captcha&lt;/a&gt;s to rails apps&lt;br /&gt;
+ - not as excited by phusion passenger as tejus is&lt;br /&gt;
+Rob:&lt;br /&gt;
+ - configuring his (thinkpad-mac) to do japanese (&lt;a href=&quot;http://en.wikipedia.org/wiki/Kotoeri&quot;&gt;kotoeri&lt;/a&gt;) input&lt;br /&gt;
+ - がんばって！&lt;br /&gt;
+Alex:&lt;br /&gt;
+ - reading Graham&#039;s DAFX paper&lt;br /&gt;
+ - can&#039;t do classloading (which jython needs) in an applet&lt;br /&gt;
+ - - wrote a blog post about it&lt;br /&gt;
+ - - to which Frank W. (big Jython guy at Sun)&lt;br /&gt;
+ - wrote some schema&lt;br /&gt;
+ - thinking metrics for how good a regression fit is&lt;br /&gt;
+Ashok:&lt;br /&gt;
+ - says that Knuth doesn&#039;t believe in unit-tests&lt;br /&gt;
+Mike:&lt;br /&gt;
+ - researching how to get high-speed internet to his rural small-town&lt;br /&gt;
+ - - so that his younger brother can be part of internetdom&lt;br /&gt;
+Mark:&lt;br /&gt;
+ - reading Graham&#039;s DAFX paper&lt;br /&gt;
+ - chattering&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Thu, 12 Jun 2008 11:50:54 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1111010</title>
+ <link>http://atlhack.org/node/272</link>
+ <description>&lt;p&gt;New Member: Dan&lt;br /&gt;
+  - industrial engineering student at tech&lt;br /&gt;
+  - building an app for airline scheduling&lt;br /&gt;
+  - asking about jsp,php,java,ruby-on-rails&lt;/p&gt;
+&lt;p&gt;Zach&lt;br /&gt;
+ - working on a reading aid for ADD folks&lt;br /&gt;
+ - displays a file and highlights groups of words at a time&lt;br /&gt;
+ - - to prevent distraction&lt;br /&gt;
+ - - it&#039;s written in swing&lt;br /&gt;
+ - - based on ideas from a speed-reading app&lt;br /&gt;
+Tejus&lt;br /&gt;
+ - worked on server config for choices-quilts&lt;br /&gt;
+ - installed ruby on centos 4&lt;br /&gt;
+Sonali&lt;br /&gt;
+ - working on the new rails version of choices-quilts&lt;br /&gt;
+ - having trouble with the &quot;will_paginate&quot; plugin&lt;br /&gt;
+Lindsey&lt;br /&gt;
+ - went to my college reunion in Iowa&lt;br /&gt;
+ - - saw family, saw friends, saw Alex, &lt;a href=&quot;http://dan-o-m.livejournal.com/57099.html&quot;&gt;video blogged&lt;/a&gt; about it&lt;br /&gt;
+ - learned about the law of &lt;a href=&quot;http://del.icio.us/lindseykuper/conservation_of_ream&quot;&gt;&quot;conservation of ream&quot;&lt;/a&gt; from my Harvey Mudd&lt;br /&gt;
+alum housemate&lt;br /&gt;
+ - won &lt;a href=&quot;http://code.google.com/p/narorumo/source/browse/trunk/narorumo/narorumo.scm&quot;&gt;NaRoRuMo 2008&lt;/a&gt;&lt;br /&gt;
+ - finally making headway on SICP again; end of chapter 1 in sight&lt;br /&gt;
+Rob&lt;br /&gt;
+ - being quiet&lt;br /&gt;
+Martin&lt;br /&gt;
+ - working on apparent (the apartment finder)&lt;br /&gt;
+ - going to keep the birthdate of the craigslist posts&lt;br /&gt;
+ - - rather than repull listings from the database at each step&lt;br /&gt;
+Mark&lt;br /&gt;
+ - researching datetime formatting and parsing&lt;br /&gt;
+ - - found a bunch of libraries in python/perl/javascript&lt;br /&gt;
+ - is going to write some code for parsing English text&lt;br /&gt;
+ - - representing repeated date events (like, every Tuesday from 8 to midnight)&lt;br /&gt;
+Erik&lt;br /&gt;
+ - maintaining code, yay?&lt;br /&gt;
+Alex&lt;br /&gt;
+ - working on the jython-in-an-applet-talking-to-javascript project&lt;br /&gt;
+ - - can call from js to applet, and back&lt;br /&gt;
+ - - but keeps getting security exceptions&lt;/p&gt;
+&lt;p&gt;Other people at Octane: Humza, Ashok, Ashok&#039;s brother (Alok), Samir, Alice, Mike, Dan&lt;br /&gt;
+Alok is taking the JES class with Monica Sweat&lt;br /&gt;
+Discovered that Ashok (and Alok) are not Indian, but Nepali&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Thu, 12 Jun 2008 11:51:33 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1111001</title>
+ <link>http://atlhack.org/node/271</link>
+ <description>&lt;p&gt;Two New Members!&lt;br /&gt;
+Ashok (with a silent &quot;H&quot;)&lt;br /&gt;
+ - co-worker of Humza and Cary Hull&lt;br /&gt;
+ - making a website for studying/memorizing&lt;br /&gt;
+ - - will use &lt;a href=&quot;http://en.wikipedia.org/wiki/Spaced_repetition&quot;&gt;spaced repetition&lt;/a&gt; to pick flashcards to show&lt;br /&gt;
+Mike&lt;br /&gt;
+ - co-worker of Ashok&lt;br /&gt;
+ - learning AppEngine&lt;br /&gt;
+ - - looking at using &lt;a href=&quot;http://simile.mit.edu/exhibit/&quot;&gt;Exhibition&lt;/a&gt; with AppEngine&lt;/p&gt;
+&lt;p&gt;Scott Driscoll (&lt;a href=&quot;http://atlhack.org/node/235&quot;&gt;previously&lt;/a&gt;)&lt;br /&gt;
+ - writing Matlab code for a freelance project&lt;br /&gt;
+ - has been selling robotics kits to Make magazine&lt;br /&gt;
+Lindsey&lt;br /&gt;
+ - work: daily insane perl refactoring sprees&lt;br /&gt;
+ - running: daily&lt;br /&gt;
+ - - on track to hit 100 miles for the month&lt;br /&gt;
+ - should perhaps consider occasionally doing things other than work and running&lt;br /&gt;
+Alex&lt;br /&gt;
+ - stretch goal: put a python REPL into a browser using jython and an applet&lt;br /&gt;
+ - - talked with Lex Spoon about this&lt;br /&gt;
+ - talking with Zach about compilers and byte-code interpreters&lt;br /&gt;
+ - running daily&lt;br /&gt;
+Rob&lt;br /&gt;
+ - wrote an outline of making the wiibow&lt;br /&gt;
+ - - with glovepie + puredata&lt;br /&gt;
+ - organizing his workflow paradigm desktop&lt;br /&gt;
+Martin&lt;br /&gt;
+ - hacking on &lt;a href=&quot;http://apparentaa.appspot.com&quot;&gt;apparent&lt;/a&gt;&lt;br /&gt;
+ - - improving query performance by indexing apartments &lt;a href=&quot;http://en.wikipedia.org/wiki/Geohash&quot;&gt;geohash&lt;/a&gt; (not &lt;a href=&quot;http://wiki.xkcd.com/geohashing&quot;&gt;the xkcd geohash&lt;/a&gt;)&lt;br /&gt;
+Mark&lt;br /&gt;
+ - trying to make Processing allow Java 1.5 syntax&lt;br /&gt;
+ - - getting segfaults&lt;br /&gt;
+ - should have stuck to playing with geomerative&lt;br /&gt;
+ - biked to Stone Mountain yesterday&lt;br /&gt;
+ - made tiny animations in Flash and Photoshop&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Thu, 12 Jun 2008 12:00:48 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1111000</title>
+ <link>http://atlhack.org/node/270</link>
+ <description>&lt;p&gt;Erik:&lt;br /&gt;
+ - used jQuery for ALOE, impressed&lt;br /&gt;
+ - needed client-side autocompleter&lt;br /&gt;
+ - &quot;the jQuery plugin idea is very nearly perfect&quot;&lt;br /&gt;
+Lindsey:&lt;br /&gt;
+ - helped throw a surprise birthday party&lt;br /&gt;
+ - went to the Obama rally in Portland with 75,000 people (&lt;a href=&quot;http://www.youtube.com/watch?v=NtN3hsITCok&quot;&gt;video&lt;/a&gt;)&lt;br /&gt;
+ - voted&lt;br /&gt;
+ - did a little more SICP, has been on a plateau for a while, though&lt;br /&gt;
+ - last day at job will be June 27 (but certainly not counting, or anything)&lt;br /&gt;
+Alex:&lt;br /&gt;
+ - sudoku solver&lt;br /&gt;
+ - flashes of love for statically typed languages&lt;br /&gt;
+ - app for keeping track of lines-written-per-day&lt;br /&gt;
+Martin:&lt;br /&gt;
+ - got the apartment finder running on appengine&lt;br /&gt;
+ - bulk uploader for pushing craigslist data into datastore&lt;br /&gt;
+ - trouble with db.TextProperty&lt;br /&gt;
+Rob:&lt;br /&gt;
+ - stumbling towards objective-c&lt;br /&gt;
+ - - going to make 1337 iPhone apps that do musical things&lt;br /&gt;
+ - air violin, wiibow&lt;br /&gt;
+ - at panopticon-esque job, did web surfing in lynx&lt;br /&gt;
+Mark:&lt;br /&gt;
+ - getting familiar with geomerative&lt;br /&gt;
+ - nowhere near &quot;materializing&quot; fonts yet&lt;br /&gt;
+ - needs to make some additional geometric datastructures&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Thu, 12 Jun 2008 16:17:31 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1110111</title>
+ <link>http://atlhack.org/node/269</link>
+ <description>&lt;p&gt;Humza:&lt;br /&gt;
+ - went rockclimbing for the first and second times&lt;br /&gt;
+ - it&#039;s zen, sections of rock are &quot;problems&quot; that you &quot;solve&quot;&lt;br /&gt;
+Lindsey:&lt;br /&gt;
+ - secretly: went on a secret journey, that nobody knows about,&lt;br /&gt;
+because it&#039;s secret&lt;br /&gt;
+ - calculated the hundred millionth Fibonacci number!:&lt;br /&gt;
+http://code.google.com/p/narorumo/wiki/ReallyBigFibonacciNumbers&lt;br /&gt;
+ - can&#039;t stop thinking about integer sequences&lt;br /&gt;
+Martin:&lt;br /&gt;
+ - started posting the &quot;apparent&quot; housing finder to appengine,&lt;br /&gt;
+ - made it all ajaxy&lt;br /&gt;
+ - started designing an icon (to rule the world)&lt;br /&gt;
+Lauryn:&lt;br /&gt;
+ - catching up on work&lt;br /&gt;
+ - reading &quot;do androids dream of electric sheep&quot;&lt;br /&gt;
+ - got a bicycle and a haircut&lt;br /&gt;
+Alex:&lt;br /&gt;
+ - sudoku solver&lt;br /&gt;
+ - gearsing, going to use svn revision number instead of md5&lt;br /&gt;
+ - hung out in portland with lindsey&lt;br /&gt;
+ - did math together, from sicp&lt;br /&gt;
+Erik:&lt;br /&gt;
+ - got rid of appcelerator from &lt;a href=&quot;http://skribit.com/&quot;&gt;skribit&lt;/a&gt;&lt;br /&gt;
+ - widget went from 300Kb to 6Kb&lt;br /&gt;
+Mark:&lt;br /&gt;
+ - using &lt;a href=&quot;http://www.ricardmarxer.com/processing/geomerative/documentation/&quot;&gt;geomerative&lt;/a&gt; to render fonts,&lt;br /&gt;
+ - found and fixed a geomerative/mac issue,&lt;br /&gt;
+ - is going to &quot;materialize&quot; fonts: make them melt like wax, inflate like ballons, etc&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Thu, 12 Jun 2008 16:17:43 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1110110</title>
+ <link>http://atlhack.org/node/268</link>
+ <description>&lt;p&gt;Mark:&lt;br /&gt;
+ - sketching in processing&lt;br /&gt;
+Martin:&lt;br /&gt;
+ - writing javascript for apparent&lt;br /&gt;
+Alex:&lt;br /&gt;
+ - impemention knuth&#039;s dancing links algorithm (for sudoku)&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Fri, 09 May 2008 12:07:05 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1110101</title>
+ <link>http://atlhack.org/node/267</link>
+ <description>&lt;p&gt;Alex:&lt;br /&gt;
+ - python sudoku solver on google appengine&lt;br /&gt;
+Lindsey:&lt;br /&gt;
+ - went to the &lt;a href=&quot;http://www.stumptowncomics.com&quot;&gt;Stumptown Comics Fest&lt;/a&gt; (ed. beautiful website!)&lt;br /&gt;
+ - - bought comics&lt;br /&gt;
+ - - listened to interesting talks&lt;br /&gt;
+ - - posted some &lt;a href=&quot;http://www.flickr.com/photos/lindseykuper/tags/stumptowncomicsfest2008/&quot;&gt;pictures and choice quotations&lt;/a&gt;&lt;br /&gt;
+ - announced my impending resignation from my job&lt;br /&gt;
+ - solved a problem in some perl code at work:&lt;br /&gt;
+ - - two bugs were interacting in such a way as to make each other invisible&lt;br /&gt;
+ - - because data was being duplicated in places where it wasn&#039;t supposed to be&lt;br /&gt;
+ - - and the duplication of information made the bug harder to track down&lt;br /&gt;
+ - - for the same reasons that non-normalized databases are vulnerable to errors&lt;br /&gt;
+ - and now I have a project idea: a Data::Doctor module&lt;br /&gt;
+ - - that looks through people&#039;s data structures&lt;br /&gt;
+ - - for telltale signs of redundancy and encourages good data hygiene&lt;br /&gt;
+Erik:&lt;br /&gt;
+ - ansley park hexagonal tiles add flavor to 8-mile runs&lt;br /&gt;
+ - looking for new residence&lt;br /&gt;
+Martin:&lt;br /&gt;
+ - worked on &quot;apparent&quot; - the apartment finder&lt;br /&gt;
+ - walked mark through installing django,setuptools,gcc,simplejson on &quot;atlanta&quot;&lt;br /&gt;
+Rob:&lt;br /&gt;
+ - has OS X running on his thinkpad&lt;br /&gt;
+ - rediscovering the command line&lt;br /&gt;
+ - installing kernel extension and crossing-fingers&lt;br /&gt;
+ - getting Wiimote running (maybe DarwiinRemote)&lt;br /&gt;
+Mark:&lt;br /&gt;
+ - made &lt;a href=&quot;http://www.diatomaton.com/2008/instructionset/4/&quot;&gt;conceptual art&lt;/a&gt;, &lt;a href=&quot;http://instructionset.org&quot;&gt;for instructionset&lt;/a&gt;&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Thu, 12 Jun 2008 16:18:07 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1110100</title>
+ <link>http://atlhack.org/node/266</link>
+ <description>&lt;p&gt;New Member: Megan&lt;br /&gt;
+ - student at SCAD-Atlanta&lt;br /&gt;
+ - - roommate of Anna Marie&lt;br /&gt;
+ - designs clothes&lt;br /&gt;
+ - - gothic lolita and other japanese fashion&lt;br /&gt;
+ - has a ganguro friend in alabama&lt;/p&gt;
+&lt;p&gt;What we&#039;ve been doing&lt;br /&gt;
+Megan:&lt;br /&gt;
+ - translating blogs&lt;br /&gt;
+ - writing midterms&lt;br /&gt;
+Anna Marie:&lt;br /&gt;
+ - midterms&lt;br /&gt;
+Erik:&lt;br /&gt;
+ - tried five things, ended up reverting all of them&lt;br /&gt;
+ - - &quot;i guess my head&#039;s not very clear&quot;&lt;br /&gt;
+ - added a calendar to aloe&lt;br /&gt;
+ - - for bills and invoices&lt;br /&gt;
+Martin:&lt;br /&gt;
+ - recentering the apartment-finder map&lt;br /&gt;
+Mark:&lt;br /&gt;
+ - released a new version of the Eclipse plugin at work&lt;br /&gt;
+ - writing pseudocode for an asynchronous language for building interfaces&lt;br /&gt;
+Alex:&lt;br /&gt;
+ - sudoku solver in python&lt;br /&gt;
+ - - his python is better than two years ago&lt;br /&gt;
+ - gears-ing his app at work&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Thu, 12 Jun 2008 16:18:20 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1110011</title>
+ <link>http://atlhack.org/node/265</link>
+ <description>&lt;p&gt;Drew + Patrick:&lt;br /&gt;
+ - competed in pyweek (&lt;a href=&quot;http://www.pyweek.org/e/etf/&quot;&gt;stochasm&lt;/a&gt;)&lt;br /&gt;
+ - starting to design a pure-python physic engine: &quot;homebrew&quot;&lt;br /&gt;
+Sonali:&lt;br /&gt;
+ - getting the css right on the tejus/sonali project&lt;br /&gt;
+ - - an svn browser &quot;like collaboa, but appcelerated&quot;&lt;br /&gt;
+ - - svn bindings are painful to deal with&lt;br /&gt;
+Tejus:&lt;br /&gt;
+ - screwed around with heroku (rails hosting)&lt;br /&gt;
+ - - trying to upload/run an appcelerator project&lt;br /&gt;
+ - friended kevin whinnery on the appcelerator dev network&lt;br /&gt;
+Lindsey:&lt;br /&gt;
+ - went to japan, sapporo, tokyo, learned kanji and kana&lt;br /&gt;
+ - - there are lots of loan words &quot;energy&quot;, &quot;handle&quot;&lt;br /&gt;
+ - - for things that you&#039;d think a native word must exist for&lt;br /&gt;
+ - did some sicp problems&lt;br /&gt;
+Alex:&lt;br /&gt;
+ - went to japan, sapporo, tokyo, learned spoken japanese and a pun&lt;br /&gt;
+ - - only works at an indian restaurant:&lt;br /&gt;
+ - - Q: &quot;nan desu ka?&quot; A: &quot;hai, nan desu!&quot;&lt;br /&gt;
+ - - Q: &quot;what is this?&quot; / &quot;is this nan-bread?&quot; A: &quot;yes, it is what!&quot; / &quot;yes, it is nan-bread!&quot;&lt;br /&gt;
+ - did something python related&lt;br /&gt;
+ - - used the unittest framework&lt;br /&gt;
+ - started reading &quot;all of statistics&quot; in earnest&lt;br /&gt;
+Anna Marie:&lt;br /&gt;
+ - new quarter: reading, writing, art-history&lt;br /&gt;
+ - awesome new roommate: a japanese aficionado&lt;br /&gt;
+Erik:&lt;br /&gt;
+ - wrote a blog post on enterprise-resourse-planning&lt;br /&gt;
+ - having a meeting this week about spinning his project off into a new company&lt;br /&gt;
+Cary:&lt;br /&gt;
+ - competed in pyweek&lt;br /&gt;
+ - finished his &quot;anarchic noun-space browser/builder&quot;&lt;br /&gt;
+ - is excited by google app engine, disparaging of pylons&lt;br /&gt;
+Mark:&lt;br /&gt;
+ - competed in pyweek&lt;br /&gt;
+ - &lt;a href=&quot;http://appceleratordemo.appspot.com/servicetester.html&quot;&gt;ported python-appcelerator&lt;/a&gt; to run on google app engine&lt;br /&gt;
+ - refactoring/fixing pyweek code&lt;br /&gt;
+Martin:&lt;br /&gt;
+ - working on his gmaps housing-finder mash-up&lt;br /&gt;
+ - drawing circles to limit search&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Thu, 12 Jun 2008 16:18:36 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1110010</title>
+ <link>http://atlhack.org/node/264</link>
+ <description>&lt;p&gt;Graham:&lt;br /&gt;
+ - finished writing dafx paper&lt;br /&gt;
+ - going to work on organizing dafx contest&lt;br /&gt;
+ - contact me if you want to race your audio effects&lt;br /&gt;
+ - should be doing Mused, but still settling in to new place&lt;br /&gt;
+ - moved to &lt;a href=&quot;http://maps.google.com/maps?f=q&amp;amp;hl=en&amp;amp;geocode=&amp;amp;q=C%2F+Sardenya,+96,+Barcelona&amp;amp;sll=37.0625,-95.677068&amp;amp;sspn=46.092115,97.382813&amp;amp;ie=UTF8&amp;amp;ll=41.395548,2.188597&amp;amp;spn=0.01072,0.023775&amp;amp;z=15&amp;amp;iwloc=addr&quot;&gt;C/ Sardenya, 96, 3o 1o&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Martin:&lt;br /&gt;
+ - tabs in dimwit&lt;br /&gt;
+ - using a lot of mixin templates&lt;/p&gt;
+&lt;p&gt;Kelley:&lt;br /&gt;
+ - going to interview a beekeeper next week&lt;br /&gt;
+ - - who is friends with the goddess&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Tue, 01 Apr 2008 22:34:28 -0500</pubDate>
+</item>
+<item>
+ <title>Hackfest 1110001</title>
+ <link>http://atlhack.org/node/263</link>
+ <description>&lt;p&gt;Kelley&lt;br /&gt;
+ - got a new macbook&lt;br /&gt;
+ - interviewed a priestess for the next creative loafing&lt;br /&gt;
+ - interview with mayor slash funeral directory to be published tomorrow&lt;br /&gt;
+ - a little bit in love with the XO laptop&lt;br /&gt;
+Graham&lt;br /&gt;
+ - met with b.w.thompson in Barcelona&lt;br /&gt;
+ - working on paper for &lt;a href=&quot;http://www.acoustics.hut.fi/dafx08/index.htm&quot;&gt;DAFX in Finland&lt;/a&gt;&lt;br /&gt;
+ - fixed a bug today&lt;br /&gt;
+ - - which hopefully yields great glory and trip to Finland&lt;br /&gt;
+Erik&lt;br /&gt;
+ - just stuff&lt;br /&gt;
+ - blogged a rant on subwindow&lt;br /&gt;
+ - got a &lt;a href=&quot;http://news.ycombinator.com/item?id=146019&quot;&gt;bunch of comments&lt;/a&gt;&lt;br /&gt;
+ - retracted rant&lt;br /&gt;
+Martin&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Thu, 12 Jun 2008 11:41:49 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1110000</title>
+ <link>http://atlhack.org/node/262</link>
+ <description>&lt;p&gt;Martin:&lt;br /&gt;
+ - writing basic backend code for the D text-editor&lt;br /&gt;
+ - code-named &quot;dimwit&quot;: &quot;D language plus my state of intelligence&quot;&lt;br /&gt;
+ - thought about how to edit really large files&lt;br /&gt;
+Alex:&lt;br /&gt;
+ - reading sicp and mythical man month&lt;br /&gt;
+ - needs a good side project&lt;br /&gt;
+ - working on gears and docreader features&lt;br /&gt;
+ - was introduced to unix&#039;s &quot;select&quot; call (for networking) in high school&lt;br /&gt;
+ - it&#039;s in the main loop of circle-mud&lt;br /&gt;
+ - which was the first big c program he worked on&lt;br /&gt;
+Lindsey:&lt;br /&gt;
+ - visited the Oregon coast&lt;br /&gt;
+ - went hiking in the mud&lt;br /&gt;
+ - had breakfast with old undergrad CS adviser SamR [http://www.cs.grinnell.edu/~rebelsky/]&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Wed, 19 Mar 2008 09:59:28 -0500</pubDate>
+</item>
+<item>
+ <title>Hackfest 1101111</title>
+ <link>http://atlhack.org/node/261</link>
+ <description>&lt;p&gt;Hackfest 1101111&lt;br /&gt;
+Erik:&lt;br /&gt;
+ - working on stellar&lt;br /&gt;
+ - irked by the way ruby&#039;s &quot;require&quot; is relative to the root/parent script,&lt;br /&gt;
+ - thinks it should be relative to the current script (like python, says mark)&lt;br /&gt;
+ - first stellar app running!&lt;br /&gt;
+ - using HAML&lt;br /&gt;
+Martin:&lt;br /&gt;
+ - embedding python into D&lt;br /&gt;
+ - generating D bindings&lt;br /&gt;
+ - will make a text-editor using a combination of D and python&lt;br /&gt;
+ - started at Appcelerator&lt;br /&gt;
+ - hacked on the perl servicebroker&lt;br /&gt;
+Alex:&lt;br /&gt;
+ - learned about Google Gears&lt;br /&gt;
+ - wrote some python to produce data for gears&lt;br /&gt;
+ - worked on SICP problems&lt;br /&gt;
+ - writing some media-computation python (smearing tacocat)&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Wed, 04 Jun 2008 15:24:17 -0400</pubDate>
+</item>
+<item>
+ <title>Hackfest 1101110</title>
+ <link>http://atlhack.org/node/260</link>
+ <description>&lt;p&gt;Martin:&lt;br /&gt;
+ - hacked on D and GTK-D&lt;br /&gt;
+ - making a texteditor (textmate+vim clone)&lt;br /&gt;
+Erik:&lt;br /&gt;
+ - entering exploratory phase of magic web framework&lt;br /&gt;
+ - tentatively titled &quot;stellar&quot;&lt;br /&gt;
+ - derived attributes, caching, everything in the model&lt;br /&gt;
+ - a big &quot;F.U.&quot; to M.V.C.&lt;br /&gt;
+Mark:&lt;br /&gt;
+ - wrote a stack-based language: &quot;yonth&quot;&lt;br /&gt;
+ - adding more primitive operations tonight: greater_than, not_equals&lt;br /&gt;
+ - reading about Joy language, quoting&lt;br /&gt;
+Alex:&lt;br /&gt;
+ - scrambled for launch&lt;br /&gt;
+ - successful except for minor communications snafu&lt;br /&gt;
+ - so it became an internal launch&lt;br /&gt;
+ - reading sicp, and mythical man month&lt;br /&gt;
+Lindsey:&lt;br /&gt;
+ - received shiny new macbookpro at work&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/16">People</category>
+ <category domain="http://atlhack.org/taxonomy/term/7">Plans</category>
+ <category domain="http://atlhack.org/taxonomy/term/3">Project</category>
+ <category domain="http://atlhack.org/taxonomy/term/2">Research</category>
+ <category domain="http://atlhack.org/taxonomy/term/4">Toy</category>
+ <pubDate>Fri, 07 Mar 2008 17:13:48 -0500</pubDate>
+</item>
+<item>
+ <title>Hackfest 1101101</title>
+ <link>http://atlhack.org/node/259</link>
+ <description>&lt;p&gt;Erik:&lt;br /&gt;- read about git submodules&lt;br /&gt;- wants to have customized project directories that share common code&lt;br /&gt;- planning ERP spinoff company  - planning for flexibility (so customers can upgrade/add capabilities)&lt;br /&gt;- went to lunar eclipe party&lt;br /&gt;Mark:&lt;br /&gt;- working on HaXe bundle for TextMate&lt;br /&gt;- writing HaXe data layer for timeplot widget&lt;br /&gt;- went to lunar eclipse party (on the lawn that was a parkinglot by van leer)&lt;br /&gt;Martin:&lt;br /&gt;- installed gtkD (gtk bindings for the D language)&lt;br /&gt;- playing around with it (there&#039;s no documentation)&lt;br /&gt;- reading about &amp;quot;lazy&amp;quot; function arguments in D&lt;/p&gt;
+</description>
+ <category domain="http://atlhack.org/taxonomy/term/14">A Boring Default</category>
+ <pubDate>Wed, 27 Feb 2008 00:49:21 -0500</pubDate>
+</item>
+</channel>
+</rss>
