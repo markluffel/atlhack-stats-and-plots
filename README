@@ -1,0 +1,13 @@
+
+To generate stats, run "python word_freq.py"
+
+Stats are pulled from the RSS file 'atlhack.xml',
+if you want to use live-er stats, remove that file
+and it will be re-curl-ed from http://atlhack.org/node/feed
+
+I don't know how to make Drupal return more than 15 items in the feed.
+It would be cool to get all the blog posts!
+
+
+
+Stopwords file from http://www.dcs.gla.ac.uk/idom/ir_resources/linguistic_utils/stop_words
