@@ -1,8 +1,11 @@
+#!/usr/bin/env python
 
 from xml.etree import ElementTree as etree
-import time,re
+import os,sys,time,re
 
 bitsRegex = re.compile('[01]+')
+junkRegex = re.compile(r'(<.*?>)|:|,|\.|\(|\)|"|\?|!|\+|/|(&quot;)')
+dashesRegex = re.compile('(\W-)|(-\W)')
 
 class Post(object):
     def __init__(self, title='', content='', date=None):
@@ -19,6 +22,8 @@ class Post(object):
     def __contains__(self, word):
         return word in self.wordHistogram
 
+
+
 def parseTimeStamp(stamp):
     stamp = stamp[:-6] # trim off the timezone offset
     return time.strptime(stamp, "%a, %d %b %Y %H:%M:%S")
@@ -32,9 +37,8 @@ def atlhackBlog(filename):
             title= post.find('title').text
         )
 
-import re
-junkRegex = re.compile(r'(<.*?>)|:|,|\.|\(|\)|"|\?|!|\+|/|(&quot;)')
-dashesRegex = re.compile('(\W-)|(-\W)')
+
+
 def stripHtml(content):
     content = re.sub(junkRegex, ' ', content)
     content = re.sub(dashesRegex, ' ', content)
@@ -67,8 +71,7 @@ def frequencyList(items=None,histo=None):
         assert items is None
     
     freq = [(count,item) for item,count in histo.iteritems()]
-    freq.sort()
-    freq.reverse()
+    freq.sort(reverse=True)
     return freq
 
 def wordBag(text,removeStopwords=True):
@@ -101,12 +104,10 @@ def lpad(text,width):
     return (' '*(width-len(text))) + text
 
 
-import os,sys
-DEBUG = '--debug' in sys.argv
-def main():
-    filename = 'atlhack.xml'
+
+def main(feedUrl,filename):
     if not os.path.exists(filename):
-        os.system('curl http://atlhack.org/node/feed > '+filename)
+        os.system('curl '+feedUrl+' > '+filename)
     
     blog = list(atlhackBlog(filename))
     blogHisto = mergeHistograms(post.wordHistogram for post in blog)
@@ -128,5 +129,10 @@ def main():
     return (blog,freq)
 
 
+
+DEBUG = '--debug' in sys.argv
 if __name__ == '__main__':
-    main()
+    main(
+        feedUrl='http://atlhack.org/node/feed',
+        filename='atlhack.xml'
+    )
